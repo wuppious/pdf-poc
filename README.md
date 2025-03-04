@@ -4,7 +4,7 @@ Custom PDF Viewer POC using PDF.js and a react wrapper. Comparison with iframe e
 
 ## Running
 
-Add a pdf file named `test.pdf` to `assets` folder, then run
+Add a pdf file named `test.pdf` to `src/assets` folder, then run
 
 ```
 yarn
