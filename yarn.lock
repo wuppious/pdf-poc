@@ -409,6 +409,11 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
+"@mikecousins/react-pdf@^7.1.0":
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/@mikecousins/react-pdf/-/react-pdf-7.1.0.tgz#8cef7e3e9f3ef07794a0771c583cbe80e8949a6b"
+  integrity sha512-uwJMgu+PQ5ULjBmuVD+R1gk1VpEjErDHxBgBrOoEBWmOk+DjoMxPV4ymPCWo7U9zLV5KJ+ppUGFa0w68fJ5yfw==
+
 "@napi-rs/canvas-android-arm64@0.1.67":
   version "0.1.67"
   resolved "https://registry.yarnpkg.com/@napi-rs/canvas-android-arm64/-/canvas-android-arm64-0.1.67.tgz#7e1e4c9395c67af98d61c53a822f45697bc7272c"
